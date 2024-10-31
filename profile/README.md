@@ -8,7 +8,7 @@ On this journey, OmniOne respects the power of the Open DID community and aims t
 Furthermore, we will establish a Self-Sovereign Identity (SSI) system for marginalized communities worldwide and provide various benefits to diverse participants in the ecosystem. By doing so, we aim to reduce social costs and fulfill our social responsibility in creating a virtuous cycle within the identity ecosystem.
 
 ### Community Site
-[OmniOne Open DID Community](http://opendid.omnione.net/community/)
+[OmniOne Open DID Community](https://opendid.omnione.net/community/)
 
 ### Discord - server invite link
-[OmniOne Open DID Discord](https://discord.gg/jdKkJPHJ )
+[OmniOne Open DID Discord](https://discord.gg/vYJ3nv9ZK4)
