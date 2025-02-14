@@ -12,3 +12,9 @@ Furthermore, we will establish a Self-Sovereign Identity (SSI) system for margin
 
 ### Discord - server invite link
 [OmniOne Open DID Discord](https://discord.gg/vYJ3nv9ZK4)
+
+### Document
+[OmniOne Open DID Document](https://omnioneid.github.io/?locale=en&version=V1.0.0#/)
+
+### Demo App
+[OmniOne Open DID Demo-App](https://omnioneid.github.io/step1)
